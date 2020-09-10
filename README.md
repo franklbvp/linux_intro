@@ -27,3 +27,9 @@ n/a
 - Getting familiar with navigating the Linux File System, checking disk usage, manipulating and archiving files and directories
 - Understanding the concept of access rights and the ways to grant different rights to other users
 - Learning the ways to control processes
+
+## Material
+
+|Presentation | link |
+|------------ | -----|
+|part 1 | link Toledo |
