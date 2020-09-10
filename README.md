@@ -32,4 +32,4 @@ n/a
 
 |Presentation | link |
 |------------ | -----|
-|part 1 | link Toledo |
+|part 1 | video(https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-0-envrionment-media/1_qfk1x7s0)|
