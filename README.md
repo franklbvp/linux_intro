@@ -1,4 +1,4 @@
-# linuxintro
+# linux_intro
 first steps into linux
 
 
@@ -29,4 +29,4 @@ n/a
 - Learning the ways to control processes
 
 ## Material
-Check the **doc** folder
+Check the **docs** folder
