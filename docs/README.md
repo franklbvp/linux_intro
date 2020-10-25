@@ -1,7 +1,13 @@
 # Documents related to the Linux Intro course
 
 This folder contains the pdf versions of the slides
-
+* [part 0](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-0-envrionment.pdf)
+* [part 1](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-1-introduction.pdf)
+* [part 2](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-2-cli_basics.pdf)
+* [part 3](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-3-file_system.pdf)
+* [part 4](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-4-more_on_files.pdf)
+* [part 5](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-5-processes.pdf)
+* [handson](https://github.com/franklbvp/linuxintro/blob/master/docs/hands-on-linux_intro-all)
 ## Video Material
 
 |Presentation | link |
