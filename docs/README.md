@@ -34,7 +34,7 @@ n/a
 |------------ | --------------------|-----------------|
 |[part 0: the linux environment](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-0-envrionment.pdf) | [video 14:18](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-0-envrionment-media/1_qfk1x7s0)| |
 |||[ubuntu - WSL](https://kuleuven.mediaspace.kaltura.com/media/linux_envronment_first_look_ubuntu_wsl/1_xeqrtih4)|
-|[part 1: linux: setting the scene](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-1-introduction.pdf)| [video 35:46](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-1-introduction-media/1_jbul900r)| [uname](https://kuleuven.mediaspace.kaltura.com/media/linux_1_uname/1_1ujkb84f)|
+|[part 1: linux: setting the scene](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-1-introduction.pdf)| [video 35:46](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-1-introduction-media/1_jbul900r)| |
 |||[uname command](https://kuleuven.mediaspace.kaltura.com/media/linux_1_uname/1_1ujkb84f)|
 |||[ubuntu, wsl](https://kuleuven.mediaspace.kaltura.com/media/linux_1_ubuntu_wsl_view/1_eekcb8la)|
 |[part 2: command line interface](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-2-cli_basics.pdf) | [video 56:07](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-2-cli_basics-media/1_j2xeynx1)| |
