@@ -27,6 +27,7 @@ n/a
 # Documents related to the Linux Intro course
 
 * [handson](https://github.com/franklbvp/linuxintro/blob/master/docs/hands-on-linux_intro-all)
+* [zip with some files and folders](https://github.com/franklbvp/linuxintro/blob/master/docs/LinuxDev.zip)
 
 ## Slides and Video Material
 
