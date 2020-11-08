@@ -52,3 +52,6 @@ n/a
 |||[archiving](https://kuleuven.mediaspace.kaltura.com/media/linux_4_archive/1_ahacedra)|
 |||[various commands](https://kuleuven.mediaspace.kaltura.com/media/linux_4_variouscommands/1_gvmga98b)|
 |[part 5: processes](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-5-processes.pdf) | [video 11:57](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-5-processes-media/1_uphtuxx5)| |
+
+## Check also
+[University of Southampton Quick Reference](https://sotonproduction.service-now.com/sys_attachment.do?sys_id=7194eac40fc2d200dec8f88ce1050e06)
