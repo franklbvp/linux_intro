@@ -7,7 +7,6 @@ This course will give a short practical summary of the basic things one needs wh
 
 - Overview and distributions
 - How to start working with Linux
-- Short introduction to Graphical User Interface
 - Command line basics: getting help, useful commands
 - Linux File System: navigating, file paths, file manipulation, diskspace, archiving
 - Text editing
@@ -28,6 +27,7 @@ n/a
 
 * [handson](https://github.com/franklbvp/linuxintro/blob/master/docs/hands-on-linux_intro-all)
 * [zip with some files and folders](https://github.com/franklbvp/linuxintro/blob/master/docs/LinuxDev.zip)
+* [tar.gz some files and folders](https://github.com/franklbvp/linuxintro/blob/master/docs/linuxDev.tar.gz)
 
 ## Slides and Video Material
 
