@@ -28,6 +28,7 @@ n/a
 * [handson](https://github.com/franklbvp/linuxintro/blob/master/docs/hands-on-linux_intro-all.pdf)
 * [zip with some files and folders](https://github.com/franklbvp/linuxintro/blob/master/docs/LinuxDev.zip)
 * [tar.gz some files and folders](https://github.com/franklbvp/linuxintro/blob/master/docs/linuxDev.tar.gz)
+* [cheat sheet notes](https://github.com/franklbvp/linuxintro/blob/master/docs/linux_introduction_binder.pdf)
 
 ## Slides and Video Material
 
