@@ -47,11 +47,13 @@ n/a
 |||[file system walkthrough](https://kuleuven.mediaspace.kaltura.com/media/linux_3_file_system_walkthrough/1_22g9sq4y)|
 |||[moving around](https://kuleuven.mediaspace.kaltura.com/media/linux_3_file_system_movingaround/1_h71oelpi)|
 |||[file manipulations](https://kuleuven.mediaspace.kaltura.com/media/linux_3_file_system_filemanipulations/1_87033f9t)|
-|[part 4: more on working with files](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-4-more_on_files.pdf) | [video 57:27](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-4-more_on_files-media/1_0k93stur)| |
+|[part 4: working with files](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-4-working_with_files.pdf) | [video 57:27](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-4-more_on_files-media/1_0k93stur)| |
 |||[editing](https://kuleuven.mediaspace.kaltura.com/media/linux_4_edit/1_ci9i73t7)|
 |||[archiving](https://kuleuven.mediaspace.kaltura.com/media/linux_4_archive/1_ahacedra)|
 |||[various commands](https://kuleuven.mediaspace.kaltura.com/media/linux_4_variouscommands/1_gvmga98b)|
-|[part 5: processes](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-5-processes.pdf) | [video 11:57](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-5-processes-media/1_uphtuxx5)| |
+|[part 5: more file handling](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-5-more_file_handling.pdf) | [video 11:57](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-5-processes-media/1_uphtuxx5)| |
+|[part 6: the shell revisited](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-6-shell_revisited.pdf) | [video 11:57](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-5-processes-media/1_uphtuxx5)| |
+|[part 7: monitoring resources](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-7-monitoring_resources.pdf) | [video 11:57](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-5-processes-media/1_uphtuxx5)| |
 
 ## Check also
 [University of Southampton Quick Reference](https://sotonproduction.service-now.com/sys_attachment.do?sys_id=7194eac40fc2d200dec8f88ce1050e06)
