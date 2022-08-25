@@ -21,12 +21,11 @@ This course provides several hands-on sessions
 n/a
 
 ## Result
-- Understanding basics of Linux system philosophy
-- Editing and displaying files in command line environment and in GUI
 - Use of basic command line commands
 - Getting familiar with navigating the Linux File System, checking disk usage, manipulating and archiving files and directories
+- Editing and displaying files in command line environment
 - Understanding the concept of access rights and the ways to grant different rights to other users
-- Learning the ways to control processes
+- Getting the very basics of processes
 
 ## Material
 Check the **docs** folder
