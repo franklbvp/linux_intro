@@ -40,19 +40,19 @@ n/a
 |||[ubuntu, wsl](https://kuleuven.mediaspace.kaltura.com/media/linux_1_ubuntu_wsl_view/1_eekcb8la)|
 |[part 2: command line interface](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-2-cli_basics.pdf) | [video 56:07](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-2-cli_basics-media/1_j2xeynx1)| |
 |||[getting help](https://kuleuven.mediaspace.kaltura.com/media/linux_2_getting_help/1_9gfrgu5g)|
-|||[view file commands](https://kuleuven.mediaspace.kaltura.com/media/linux_2_view_file_commands/1_ne5doof2)|
-|||[shell revisited](https://kuleuven.mediaspace.kaltura.com/media/linux_2_shell_revisited/1_b0ho78ib)|
-|||[redirect, pipe](https://kuleuven.mediaspace.kaltura.com/media/linux_2_file_redirect_pipe/1_dh9b60i2)|
+|||[useful features](https://kuleuven.mediaspace.kaltura.com/media/linux_2_shell_revisited/1_b0ho78ib)|
 |[part 3: file system](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-3-file_system.pdf)| [video 59:09](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-3-file_system-media/1_q3mubqrj)| |
 |||[file system walkthrough](https://kuleuven.mediaspace.kaltura.com/media/linux_3_file_system_walkthrough/1_22g9sq4y)|
+|[part 4: working with files](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-4-working_with_files.pdf) | [video 57:27](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-4-more_on_files-media/1_0k93stur)| |
+|||[view file commands](https://kuleuven.mediaspace.kaltura.com/media/linux_2_view_file_commands/1_ne5doof2)|
 |||[moving around](https://kuleuven.mediaspace.kaltura.com/media/linux_3_file_system_movingaround/1_h71oelpi)|
 |||[file manipulations](https://kuleuven.mediaspace.kaltura.com/media/linux_3_file_system_filemanipulations/1_87033f9t)|
-|[part 4: working with files](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-4-working_with_files.pdf) | [video 57:27](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-4-more_on_files-media/1_0k93stur)| |
 |||[editing](https://kuleuven.mediaspace.kaltura.com/media/linux_4_edit/1_ci9i73t7)|
-|||[archiving](https://kuleuven.mediaspace.kaltura.com/media/linux_4_archive/1_ahacedra)|
-|||[various commands](https://kuleuven.mediaspace.kaltura.com/media/linux_4_variouscommands/1_gvmga98b)|
 |[part 5: more file handling](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-5-more_file_handling.pdf) | [video 11:57](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-5-processes-media/1_uphtuxx5)| |
+|||[archiving](https://kuleuven.mediaspace.kaltura.com/media/linux_4_archive/1_ahacedra)|
 |[part 6: the shell revisited](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-6-shell_revisited.pdf) | [video 11:57](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-5-processes-media/1_uphtuxx5)| |
+|||[redirect, pipe](https://kuleuven.mediaspace.kaltura.com/media/linux_2_file_redirect_pipe/1_dh9b60i2)|
+|||[various commands](https://kuleuven.mediaspace.kaltura.com/media/linux_4_variouscommands/1_gvmga98b)||||[various commands](https://kuleuven.mediaspace.kaltura.com/media/linux_4_variouscommands/1_gvmga98b)|
 |[part 7: monitoring resources](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-7-monitoring_resources.pdf) | [video 11:57](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-5-processes-media/1_uphtuxx5)| |
 
 ## Check also
