@@ -31,7 +31,7 @@ n/a
 
 ## Slides and Video Material
 
-|Slides |Powerpoint narrative | screencast/demo |
+|Slides (pdf) |Recorded Powerpoint (*) | Screencast/demo |
 |------------ | --------------------|-----------------|
 |[part 0: the linux environment](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-0-envrionment.pdf) | [video 14:18](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-0-envrionment-media/1_qfk1x7s0)| |
 |[short intro WSL](https://github.com/franklbvp/linuxintro/blob/master/docs/WSL-short_intro.pdf)||[ubuntu - WSL](https://kuleuven.mediaspace.kaltura.com/media/linux_envronment_first_look_ubuntu_wsl/1_xeqrtih4)|
@@ -55,5 +55,6 @@ n/a
 |||[various commands](https://kuleuven.mediaspace.kaltura.com/media/linux_4_variouscommands/1_gvmga98b)||||[various commands](https://kuleuven.mediaspace.kaltura.com/media/linux_4_variouscommands/1_gvmga98b)|
 |[part 7: monitoring resources](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-7-monitoring_resources.pdf) | [video 11:57](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-5-processes-media/1_uphtuxx5)| |
 
+(*) not all slides have audio, some slides will simply appear for a while without sound
 ## Check also
 [University of Southampton Quick Reference](https://sotonproduction.service-now.com/sys_attachment.do?sys_id=7194eac40fc2d200dec8f88ce1050e06)
