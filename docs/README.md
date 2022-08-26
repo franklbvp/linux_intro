@@ -52,7 +52,7 @@ n/a
 |||[archiving](https://kuleuven.mediaspace.kaltura.com/media/linux_4_archive/1_ahacedra)|
 |[part 6: the shell revisited](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-6-shell_revisited.pdf) | [video 11:57](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-5-processes-media/1_uphtuxx5)| |
 |||[redirect, pipe](https://kuleuven.mediaspace.kaltura.com/media/linux_2_file_redirect_pipe/1_dh9b60i2)|
-|||[various commands](https://kuleuven.mediaspace.kaltura.com/media/linux_4_variouscommands/1_gvmga98b)||||[various commands](https://kuleuven.mediaspace.kaltura.com/media/linux_4_variouscommands/1_gvmga98b)|
+|||[various commands](https://kuleuven.mediaspace.kaltura.com/media/linux_4_variouscommands/1_gvmga98b)|
 |[part 7: monitoring resources](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-7-monitoring_resources.pdf) | [video 11:57](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-5-processes-media/1_uphtuxx5)| |
 
 (*) not all slides have audio, some slides will simply appear for a while without sound
