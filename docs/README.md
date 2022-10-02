@@ -26,7 +26,7 @@ n/a
 # Documents related to the Linux Intro course
 
 * [handson](https://github.com/franklbvp/linuxintro/blob/master/docs/hands-on-linux_intro-all.pdf)
-* [tar.gz some files and folders](https://github.com/franklbvp/linuxintro/blob/master/docs/linux_training.tar.gz)
+* [tar.gz some files and folders](https://github.com/franklbvp/linuxintro/blob/master/docs/training_linux.tar.gz)
 * [cheat sheet notes](https://github.com/franklbvp/linuxintro/blob/master/docs/linux_cli_binder.pdf)
 
 ## Slides and Video Material
