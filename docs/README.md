@@ -16,6 +16,12 @@ This course will give a short practical summary of the basic things one needs wh
 ## Prerequisites
 n/a
 
+## Setup
+During the sessions, a WSL environment (Windows Subsystem for Linux - Ubuntu) will be used to demonstrate several Linux commands. 
+
+It can be useful to have an environment available to experiment with some of the commands, either during the session or afterwards to test the different features.
+More info on running Linux: [running Linux](https://github.com/franklbvp/c_intro/blob/main/docs/running_linux.pdf)
+
 ## Result
 - Understanding the basics of the Linux system philosophy
 - Use of basic command line commands (cli)
@@ -33,8 +39,8 @@ n/a
 
 |Slides (pdf) |Recorded Powerpoint (*) | Screencast/demo |
 |------------ | --------------------|-----------------|
-|[part 0: the linux environment](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-0-envrionment.pdf) | [video](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-0-envrionment/1_5dlm8w05)| |
-|[short intro WSL](https://github.com/franklbvp/linuxintro/blob/master/docs/WSL-short_intro.pdf)||[ubuntu - WSL](https://kuleuven.mediaspace.kaltura.com/media/linux_envronment_first_look_ubuntu_wsl/1_xeqrtih4)|
+|[part 0: the linux environment](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-0-envrionment.pdf) | [video](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-0-envrionment/1_5dlm8w05)|  |
+| | |[ubuntu - WSL](https://kuleuven.mediaspace.kaltura.com/media/linux_envronment_first_look_ubuntu_wsl/1_xeqrtih4)|
 |[part 1: linux: setting the scene](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-1-introduction.pdf)| [video](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-1-introduction/1_55d684nf)| |
 |||[uname command](https://kuleuven.mediaspace.kaltura.com/media/linux_1_uname/1_1ujkb84f)|
 |||[ubuntu, wsl](https://kuleuven.mediaspace.kaltura.com/media/linux_1_ubuntu_wsl_view/1_eekcb8la)|
