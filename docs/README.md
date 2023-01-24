@@ -19,7 +19,7 @@ n/a
 ## Setup
 During the session, a WSL environment (Windows Subsystem for Linux - Ubuntu) will be used to demonstrate the Linux material. 
 
-It can be useful to have an environment available to experiment with some of the commands, either during the session or afterwards to test the different features. As the environment will be installed and available, it will then be ready for use in your research.
+It can be useful to have an environment available to experiment with some of the commands, either during the session or afterwards. Moreover having an environment installed, it will then be ready for use in your research.
 More info on running Linux: [running Linux](https://github.com/franklbvp/linuxintro/blob/master/docs/running_linux.pdf)
 
 ## Result
