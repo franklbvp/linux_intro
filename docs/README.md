@@ -24,11 +24,11 @@ It can be useful to have an environment available to experiment with some of the
 More info on running Linux: [running Linux](https://github.com/franklbvp/linuxintro/blob/master/docs/running_linux.pdf)
 
 ## Result
-- Understanding the basics of the Linux system philosophy
-- Use of basic command line commands (cli)
-- Getting familiar with navigating the Linux File System, checking disk usage, manipulating and archiving files and directories
-- Understanding the concept of access rights and the ways to grant different rights to other users
-- Learning the ways to control processes
+- Understanding the basics of the Linux system philosophy.
+- Use of basic command line commands (cli).
+- Getting familiar with navigating the Linux File System, checking disk usage, manipulating and archiving files and directories.
+- Understanding the concept of access rights.
+- Learn the very basics on monitoring resources.
 
 # Documents related to the Linux Intro course
 
