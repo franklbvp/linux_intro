@@ -3,16 +3,16 @@ first steps into linux
 
 
 ## Content
-This course will give a short practical summary of the basic things one needs when using mainly the command line in Linux:
+This course will give a short practical summary of the basic things one needs when using the command line in Linux:
 
-- How to start working with Linux
-- Overview and distributions
-- Command line basics: getting help
-- Linux File System
-- Working with files and directories
-- More file handling
-- The shell revisited
-- Monitoring resources
+- How to start working with Linux (on Windows).
+- Some background: history, some key concepts.
+- Command line basics: getting help.
+- Linux File System.
+- Working with files and directories.
+- More file handling.
+- Groups, users, security: access rights.
+- Monitoring resources.
 
 ## Prerequisites
 n/a
