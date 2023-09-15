@@ -21,7 +21,9 @@ n/a
 During the session, a WSL environment (Windows Subsystem for Linux - Ubuntu) will be used to demonstrate the Linux material. 
 
 It can be useful to have an environment available to experiment with some of the commands, either during the session or afterwards. Moreover having an environment installed, it will then be ready for use in your research.
-More info on running Linux: [running Linux](https://github.com/franklbvp/linuxintro/blob/master/docs/running_linux.pdf)
+More info on  [running Linux](https://github.com/franklbvp/linuxintro/blob/master/docs/running_linux.pdf)
+
+Check also the VSC pages on [accessing the VSC Infrastructure](https://docs.vscentrum.be/access/access_methods.html)
 
 ## Result
 - Understanding the basics of the Linux system philosophy.
