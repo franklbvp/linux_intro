@@ -81,3 +81,7 @@ Check also the VSC pages on [accessing the VSC Infrastructure](https://docs.vsce
 |[part 7: monitoring resources](https://github.com/franklbvp/linuxintro/blob/master/docs/Linux-intro-7-monitoring_resources-o.pdf) | [video](https://kuleuven.mediaspace.kaltura.com/media/Linux-intro-7-monitoring_resources/1_wcm3urc3)| |
 
 (*) not all slides have audio, some slides will simply appear for a while without sound
+
+## See also
+* [LPI Linux Essentials](https://learning.lpi.org/en/learning-materials/010-160/)
+* [Linux Cheatsheet](https://microsoft.github.io/WhatTheHack/020-LinuxFundamentals/Student/resources/commands.html)
