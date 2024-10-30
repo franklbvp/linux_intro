@@ -85,3 +85,4 @@ Check also the VSC pages on [accessing the VSC Infrastructure](https://docs.vsce
 ## See also
 * [LPI Linux Essentials](https://learning.lpi.org/en/learning-materials/010-160/)
 * [Linux Cheatsheet](https://microsoft.github.io/WhatTheHack/020-LinuxFundamentals/Student/resources/commands.html)
+* [linuxjourney](https://linuxjourney.com/)
